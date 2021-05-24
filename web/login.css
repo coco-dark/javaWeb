@@ -1,0 +1,68 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: darkgray;
+}
+#box{
+    width: 100%;
+    height: 100%;
+
+}
+#tb{
+    width: 100%;
+    height:400px;
+    margin: auto;
+    font-family: 隶书;
+    font-size: 25px;
+
+    border-radius: 15px;
+}
+#inputBox{
+    background-color: rgb(240, 239, 237);
+    width: 450px;
+    height: 550px;
+    margin: auto;
+    margin-top: 7%;
+    border-radius: 15px;
+
+}
+input{
+    width: 300px;
+    height: 55px;
+    border-radius: 15px;
+    outline: none;
+}
+#lastTd{
+
+    text-align: right;
+
+}
+button{
+    width: 80px;
+    height: 35px;
+
+}
+#th{
+    height: 80px;
+    background-color: rgb(49, 47, 47);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#headImg{
+    width: 75px;
+    height: 75px;
+    border-radius: 45px;
+    background-color: aqua;
+    border-color: rgb(237, 241, 245);
+    border-width: 3px;
+    border-style: double;
+
+}
+#butBox{
+    height: 100px;
+    width: 400px;
+    margin-left: 8%;
+    margin-top: 4%;
+    text-align: center;
+
+}
